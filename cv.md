@@ -32,3 +32,14 @@ function multiply(a, b) {
 }
 ```
 
+## Experience
+***
+[GuestHouse](https://amirlnsrv.github.io/Guest-House.github.io/) - Adaptive website without functional.
+
+## Education
+***
+* **College:** Kyrgyz State Law University, (KSLA) IT-Academy
+
+## English
+***
+**A2**
