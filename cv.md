@@ -13,3 +13,22 @@
 I am highly motivated and able to multitask and work in a team.
 I strive for knowledge from business professionals.
 
+## Skills
+***
+* HTML
+* CSS/SCSS
+* JS(Basic)
+* BEM methodology
+* Git
+* VSCode
+* XAMPP
+* Some PHP
+
+## Code Example
+***
+```
+function multiply(a, b) {
+  return a * b
+}
+```
+
